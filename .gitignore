@@ -130,3 +130,5 @@ dmypy.json
 
 #Pycharm
 .idea/
+migrations/
+# 수정할 일이 많음. -> 수정 내역을 일일이 기록하면 로컬 컴퓨터 db와 서버의 db가 불일치하는 현상이 있을 수 있음
